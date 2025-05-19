@@ -4,7 +4,7 @@
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). The goal was to build a simple, responsive card containing a QR code and some text — clean, minimal, and mobile-friendly.
 ### Screenshot
 
-![screenshot of QRcode](0_1-qrcode.png)
+![screenshot of QRcode](https://github.com/samsdivstudiosQR-code-card-/blob/main/image-qr-code.png)
 
 ### Links
 
